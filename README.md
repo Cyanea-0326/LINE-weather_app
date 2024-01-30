@@ -18,6 +18,8 @@
 - Oracleクラウドに仮想Linux導入してさらにWEBサーバを構築してみた: https://youtu.be/0r_c7Zx7emg?si=3EjIEnKxaWY5if_M
 
 ### 成果物
+> 説明
+> 地域名を単語で送信するとその地域の一時間ごの降水強度を取得し、傘が必要か否かを返答します
 - [LINEアカウント] https://liff.line.me/1645278921-kWRPP32q/?accountId=489lzffw  
 アカウントQR  
 ![image](https://github.com/Cyanea-0326/LINE-weather_app/assets/96759613/9536841b-2d4b-41f8-807f-90c860a7ee75)
