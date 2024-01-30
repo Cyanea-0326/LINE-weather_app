@@ -11,3 +11,7 @@
    
 - API
   - [YAHOO 天気気象API](https://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/weather.html#response_field)
+  - [Geocoding API version 1.2](https://www.geocoding.jp/api/)
+ 
+### 参考記事
+>> https://qiita.com/taku-0728/items/c80bcf65aba318ac6db0
