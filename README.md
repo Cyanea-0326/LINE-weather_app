@@ -16,3 +16,6 @@
 ### 参考記事
 - AWS Lambda + Python + LINE Botで傘が必要か教えてもらう: https://qiita.com/taku-0728/items/c80bcf65aba318ac6db0
 - Oracleクラウドに仮想Linux導入してさらにWEBサーバを構築してみた: https://youtu.be/0r_c7Zx7emg?si=3EjIEnKxaWY5if_M
+
+### 成果物
+[アカウント]https://liff.line.me/1645278921-kWRPP32q/?accountId=489lzffw
