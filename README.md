@@ -19,4 +19,4 @@
 
 ### 成果物
 [LINEアカウント]: https://liff.line.me/1645278921-kWRPP32q/?accountId=489lzffw
-<img src="![image](https://github.com/Cyanea-0326/LINE-weather_app/assets/96759613/9536841b-2d4b-41f8-807f-90c860a7ee75)" width="256">
+[image](https://github.com/Cyanea-0326/LINE-weather_app/assets/96759613/9536841b-2d4b-41f8-807f-90c860a7ee75)
