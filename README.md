@@ -14,4 +14,4 @@
   - [Geocoding API version 1.2](https://www.geocoding.jp/api/)
  
 ### 参考記事
->> https://qiita.com/taku-0728/items/c80bcf65aba318ac6db0
+> https://qiita.com/taku-0728/items/c80bcf65aba318ac6db0
